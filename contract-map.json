@@ -4518,5 +4518,10 @@
     "erc20": true,
     "symbol": "FPS",
     "decimals": 18
-  }
-}
+ 
+  "0x4Cb24D9d4F21740087bD481eB21e4e14775449E4": {
+    "name": "skullcats",
+    "logo": "logo.svg",
+    "erc20": true,
+    "symbol": "SKAT",
+    "decimals": 18}
